@@ -1,3 +1,5 @@
+
+
 # Data Visualization: Titanic Data Visualization
 
 By Sargam Shah 
@@ -14,6 +16,9 @@ I downloaded the data from Kaggle - Machine Learning from Disaster, selecting a 
 I considered using multiple chart types (scatter, line chart, bubble chart, bar chart, etc.), color each line separately to test if this is a good way to visualize & stress on important point. I re-evaluated different chart type by tweaking few line of code and confirm my initial assumption, a bar chart is already sufficient to dislay data characteristic. Then, I also use Excel to do basic data munging (mute the blank age by inputing N/A), created new column called age group and divided into "15 age" bracket. The first versio is drawn from index-initial.html or image below:
 This initial iteration can be viewed at index-initial.html, or below:
 ![First Chart](https://raw.githubusercontent.com/tommyly2010/Udacity-Data-Analyst-Nanodegree/master/p6 - Data Visualization/img/image-initial.png)
+
+https://public.tableau.com/profile/sargam6270#!/vizhome/Titanic_Tableau/Titanic?publish=yes
+
 Feedback
 I gathered feedback from 3 different people people and tried to follow Udacity questions guideline and here is the abridged responses.
 ### Interview #1
