@@ -20,8 +20,7 @@ https://public.tableau.com/profile/sargam6270#!/vizhome/Titanic_Tableau/Titanic?
 Feedback
 I gathered feedback from a person and tried to follow Udacity questions guideline and here is the abridged responses.
 ### Interview #1
-
-Your chart was a bit messy & no consistent headlines & legend. I am not sure what S, C etc. stand for in the next chart. It will be better if you show percentage instead of age at the survival graph. Overall, it is a nice attempt and conclusion is clear.  
+![alt text](https://github.com/Sargam5360/Tableau-Story/blob/master/ii.png)
  
 Post-feedback Design
 Following the feedback from the 3 interviews, I implemented the following changes:
