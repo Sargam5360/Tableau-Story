@@ -30,6 +30,7 @@ I corrected labeling errors found in many charts.
 I also used consistent color theme to make the visualization more aesthetic.
 Final rendition of the data visualization is shown below: 
 
+https://public.tableau.com/profile/sargam6270#!/vizhome/Tableau_Titanic_Sargam_Final/Story1?publish=yes
 ## Resources
  
 
