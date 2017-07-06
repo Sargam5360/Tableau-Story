@@ -25,6 +25,7 @@ I chose bar chart to represent the passengers accross gender because bar charts 
 SURVIVAL BY AGE GRAPH
 Why did you choose a specific chart type over the other types? or What makes that chart, legend, layout, etc a good choice to represent the data?
 
+
 Here, we want to answer whether older people have higher chances of survival or vice versa. Age is a continuous datatype ranging from 0 to 74. I decided that histogram would be a nice representation of the distribution of the data and the nature of the distribution as well. If the distribution turns out to be normal, I can say that people of older age group or younder age group did not have high chance of survival. 
 I converted age into discrete bins of age 2. I plot the histogram using bars in order to represent my visualization in a more appealing manner. I put filter color as survived or died as we are interested in knowing whether a passenger of certain age group had higher chances of survival or chances of dying. 
 I also put filter as class as the viewer might be interested in knowing whether a certain age group of first class survived more as compared to third class. 
@@ -64,7 +65,11 @@ I also used consistent color theme to make the visualization more aesthetic.
 She was not clear what Embarkment was. When I revisited the dashboard, I realized that the graph on which passenger boarded from which area served no purpose to my story. Hence, I decided to remove that graph altogether. Gold plating in terms of excessive data is unnecessary.
 
 **Final rendition of the data visualization is shown below:**
-https://public.tableau.com/profile/sargam6270#!/vizhome/Tableau_Titanic_Sargam_Final/Story1?publish=yes
+https://public.tableau.com/profile/sargam6270#!/vizhome/Tableau_Titanic_Sargam_Final/Story1?publish=yeshttps://review.udacity.com/#!/reviews/577559/shared
+
+## Project Review 
+You can find what the reviewer thought about the project in the below link:
+https://review.udacity.com/#!/reviews/577559/shared
 
 ## Resources
 Udacity course on Tableau 
