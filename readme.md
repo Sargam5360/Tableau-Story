@@ -7,7 +7,7 @@ By Sargam Shah
 
 ## Summary
 
-This project depicts a visualization story created in tableu using different graphs. It shows number of survivals based on classes, age groups & sex. It draws conclusion that female of first class had higher chances of survival and males of third class had least chances of survival. In general, females had higher chances of survival than males.
+This project depicts a visualization story created in tableau using different graphs. It shows number of survivals based on classes, age groups & sex. It draws conclusion that female of first class had higher chances of survival and males of third class had least chances of survival. In general, females had higher chances of survival than males.
 
 ## Design
 
